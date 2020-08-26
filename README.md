@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m a Generalist, Learning and writing.
 
 <!--
 **ta3113ta/ta3113ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
