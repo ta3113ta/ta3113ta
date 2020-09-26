@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m a Generalist, Love to learning and writing blog.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta)](https://github.com/ta3113ta/github-readme-stats)
 <!--
 **ta3113ta/ta3113ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
