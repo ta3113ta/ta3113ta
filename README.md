@@ -1,9 +1,19 @@
-### Hi there 👋
-🌱 I’m a Generalist, Love to learning and writing blog.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta"/>
+<h2 align="center">Hi there 👋</h1>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/wuttichai-buraso-249a7b171/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"/>
+  </a>
 </p>
+<p align="center">
+  <p align="center">🌱 I’m a Generalist, Love to learning and writing blog.</p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta" align="center" alt="status"/>
+  </p>
+</p>
+
+
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta)](https://github.com/ta3113ta/github-readme-stats) -->
 
