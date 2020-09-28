@@ -3,6 +3,9 @@
   <a href="https://www.linkedin.com/in/wuttichai-buraso-249a7b171/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"/>
   </a>
+  <a href="https://twitter.com/ta3113ta">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" align="center" />
+  </a>
 </p>
 <p align="center">
   <p align="center">🌱 I’m a Generalist, Love to learning and writing blog.</p>
