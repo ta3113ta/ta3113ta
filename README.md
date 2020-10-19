@@ -8,7 +8,7 @@
   </a>
 </p>
 <p align="center">
-  <p align="center">🌱 I’m a Generalist, Love to learning and writing blog.</p>
+  <p align="center">🌱 I’m a Generalist, Love to learning.</p>
   <p align="center">🌱 I’m currently learning Vuejs and Golang</p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta&layout=compact" align="center" alt="status"/>
