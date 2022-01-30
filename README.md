@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h1>
 <p align="center">
-  <p align="center">⚡ I’m currently learning Kubernetes</p>
+  <p align="center">⚡ I’m currently learning Kubernetes and x86 Assembly</p>
   <p align="center">Lover of Rust and Typescript who enjoys learning low-level programming.</p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta&layout=compact" align="center" alt="status"/>
