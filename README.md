@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h1>
 <p align="center">
-  <p align="center">⚡ I’m currently learning Rust</p>
+  <p align="center">⚡ I’m currently learning Assembly</p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta&layout=compact" align="center" alt="status"/>
   </p>
