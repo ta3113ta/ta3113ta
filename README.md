@@ -1,13 +1,10 @@
 <h2 align="center">Hi there 👋</h1>
 <p align="center">
-  <p align="center">⚡ I’m currently learning Profiling</p>
+  <p align="center">⚡ I’m currently learning Database Internal, ARM Assembly</p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta&layout=compact" align="center" alt="status"/>
   </p>
 </p>
-
-
-
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ta3113ta)](https://github.com/ta3113ta/github-readme-stats) -->
